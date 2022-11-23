@@ -1,0 +1,19 @@
+section {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../css/img/free-icon-font-angle-left-3916962.svg);
+}
+.carousel-control-next-icon {
+    background-image: url(../css/img/free-icon-font-angle-right-3916959.svg);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+.carousel-control-prev {
+    left: -35px;
+}
+.carousel-control-next {
+    right: -35px;
+}
